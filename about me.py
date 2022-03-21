@@ -1,0 +1,5 @@
+print("My name is Seme David Luvai")
+print("Currently I am pursuing a bachelors degree on what i love that being Bachelor of Science in Computer Science ")
+print("I am a tech enthusiast")
+print("Soon i want to be part of the evolution of technology by being able to take part in problem solving ")
+print("I am a team player and always ready to learn")
